@@ -18,3 +18,8 @@ For our final project in TCSS305(Programming Practicum) we were tasked with crea
  5. Logs all user inputs to the console, reporting them when calculation is finished.
  
 Originally, this project was meant to be a combination of two previous calculator projects, however due to time constraints those projects were not assigned. Thus, this project is made with the assumption that the user will manually select to either use a floating point calculator or an integer calculator prior to starting any calculations.
+
+# FILES
+Calculator - Contains code for GUI and operational methods
+Main Class - Driver program, contains implementation of Calculator Class
+CalculatorTest - Contains JUnit Testing for Calculator
